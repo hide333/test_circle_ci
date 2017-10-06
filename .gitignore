@@ -1,0 +1,9 @@
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+/config/.env
+/node_modules/*
+
+# JetBrains IDE
+/.idea/*
